@@ -1,0 +1,179 @@
+
+.header {
+    background: #2190e8;
+    padding: .5em;
+    color: white;
+    text-align: right;
+}
+
+.button-background {
+  background: #134670;
+  padding: 3em;
+  background: repeating-linear-gradient(
+    145deg,
+    #134670,
+    #134a78 5px,
+    #134a78 5px,
+    #134a78 5px
+  );
+}
+
+.dashboard {
+    background: #33cc66;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding: 0px;
+    color: white;
+    border-radius: 4px;
+}
+
+.content {
+    border: #f6f6f6 10px solid;
+    border-radius: 4px;
+    
+}
+
+.content h2 {
+    color: #2190e8;
+    font-weight: 200;
+}
+
+
+.orange {
+    border-right: 2px  #f6f6f6 solid;
+    text-align: center;
+}
+
+.orange a {
+    color: orange;
+    text-decoration: none;
+
+}
+
+.orange a:hover {
+    color: #f6f6f6;
+    text-decoration: none;
+}
+
+.latin {
+    border-right: 2px #f6f6f6 solid;
+}
+
+.tasks {
+    border-top: 2px #f6f6f6 solid;
+    border-right: 2px #f6f6f6 solid;
+}
+
+.tasks ul {
+    list-style: none;
+    padding: 0px;
+}
+
+.tasks li {
+    border-bottom: 2px solid #f6f6f6;
+
+}
+
+.tasks a {
+    color: #2190e8;
+    text-decoration: none;
+
+}
+
+.tasks a:hover {
+    color: #f6f6f6;
+    text-decoration: none;
+}
+
+.recommendations h6 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.recommendations a {
+   color: #777777;
+   text-decoration: none;
+}
+
+.analysis {
+    border-top: 2px #f6f6f6 solid;
+    border-bottom: 2px #f6f6f6 solid;
+}
+
+.know {
+    padding: 1em;
+    margin: 1em;
+    background: #2190e8;
+    color: white;
+
+}
+
+.know h6{
+    padding: 0px;
+    margin: 0px;
+}
+
+.arrows {
+    padding: 0px;
+    margin: 0px;
+}
+
+.arrow1 {
+    display: inline-block;
+    padding: 40px 0px 40px 0px; 
+}
+
+.arrow2 {
+    display: inline-block;
+    padding: 40px 0px 40px 0px; 
+}
+
+.ads {
+    padding: 7em;
+    background: #2190e8;
+    text-align: center;
+}
+
+.footer {
+    background: #f7f7f7;
+    padding: .75em;
+    border-top: white 1px;
+    color: #b0b0b0;
+}
+
+.footer a {
+    color: #b0b0b0;
+}
+
+.footer a:hover {
+   text-decoration: none;
+   color: #f6f6f6;
+}
+
+
+.tutorials {
+    border-right: #b0b0b0 2px solid;
+    padding: .4em;
+    text-align: center;
+}
+
+.support {
+    border-right: #b0b0b0 2px solid;
+    padding: .4em;
+    text-align: center;
+}
+
+.blog {
+    border-right: #b0b0b0 2px solid;
+    padding: .4em;
+    text-align: center;
+}
+
+#blueariel{
+    color: #2190e8;
+    font-weight: bold;
+}
+
+.likes {
+    border-right: 3px #b0b0b0 solid;
+}
